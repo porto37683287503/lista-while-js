@@ -1,0 +1,7 @@
+let numero = 1;
+while (numb <= 20) {
+    if (numero % 4 === 0) {
+        console.log(numero);
+    }
+    numero++;
+}
